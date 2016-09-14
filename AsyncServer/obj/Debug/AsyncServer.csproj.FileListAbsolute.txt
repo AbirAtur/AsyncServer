@@ -1,0 +1,12 @@
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\bin\Debug\AsyncServer.exe
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\bin\Debug\AsyncServer.exe.config
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\ServerMainWindow.baml
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\ServerMainWindow.g.cs
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\App.g.cs
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\AsyncServer_MarkupCompile.cache
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\AsyncServer.g.resources
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\AsyncServer.Properties.Resources.resources
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\AsyncServer.csproj.GenerateResource.Cache
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\AsyncServer.exe
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\obj\Debug\AsyncServer.pdb
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncServer\bin\Debug\AsyncServer.pdb

@@ -1,0 +1,12 @@
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\bin\Debug\AsyncClient.exe.config
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\bin\Debug\AsyncClient.exe
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\bin\Debug\AsyncClient.pdb
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\ClientMainWindow.baml
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\ClientMainWindow.g.cs
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\App.g.cs
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\AsyncClient_MarkupCompile.cache
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\AsyncClient.g.resources
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\AsyncClient.Properties.Resources.resources
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\AsyncClient.csproj.GenerateResource.Cache
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\AsyncClient.exe
+c:\users\cloud\documents\visual studio 2015\Projects\AsyncServer\AsyncClient\obj\Debug\AsyncClient.pdb
