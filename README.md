@@ -1,3 +1,2 @@
 # AsyncServer
-An example of TCP server using async\await
-bx
+An example of asynchronous TCP server using async\await
